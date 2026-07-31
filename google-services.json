@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875177938543",
+    "project_id": "command-center-be9ec",
+    "storage_bucket": "command-center-be9ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875177938543:android:124d08236546fc2b09c79a",
+        "android_client_info": {
+          "package_name": "com.opsiscx.commandcenter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQ9NLAJdMnxadX6fzwvI94J2VJNJPabg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
