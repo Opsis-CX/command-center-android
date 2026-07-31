@@ -1,0 +1,9 @@
+{
+  "appId": "com.opsiscx.commandcenter",
+  "appName": "Command Center",
+  "webDir": "www",
+  "server": {
+    "url": "https://app.opsiscx.com",
+    "cleartext": false
+  }
+}
